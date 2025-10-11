@@ -1,0 +1,21 @@
+##langchain-openai  but it is paid
+langchain
+python-dotenv
+langchain-community
+langchain_core
+streamlit
+ipykernel
+pypdf
+bs4
+arxiv
+pyMuPDF 
+wikipedia
+langchain_text_splitter
+chromadb
+sentence_transformers
+langchain_huggingface
+faiss-cpu
+langchain_chroma
+duckdb
+pandas
+langchain_groq
